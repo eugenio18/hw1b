@@ -27,13 +27,13 @@ LANGUAGE:
 
 SCREENSHOT:
 
-    (./assets/images/01-html-css-git-homework-demo.png)
+   ![Screenshot of project](./assets/images/01-html-css-git-homework-demo.png)
 
 
 LINKS:
 
-    Repo : https://github.com/eugenio18/hw1b.git
-    Pages: https://eugenio18.github.io/hw1b/
+[Repo](https://github.com/eugenio18/hw1b.git)
+[Page](https://eugenio18.github.io/hw1b/)
  
 
 HOW TO CONTRIBUTE
